@@ -3,3 +3,4 @@
     window.EJS_core     = 'snes';
     window.EJS_mouse    = false;
     window.EJS_multitap = false;
+EJS_pathtodata = "data/";
